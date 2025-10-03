@@ -1,8 +1,8 @@
 # Hi, I'm Sujay Rajashekar  
 
-🎓 Master’s student in **Data Science & Analytics Engineering @ Arizona State University**  
-💻 Ex-Software Engineer at **Accenture (Google Business Group)** & **Tredence Inc.**  
-📊 Passionate about **Machine Learning, Cloud Engineering, and Algorithmic Trading**  
+Master’s student in **Data Science & Analytics Engineering @ Arizona State University**  
+Ex-Software Engineer at **Accenture (Google Business Group)** & **Tredence Inc.**  
+Passionate about **Machine Learning, Cloud Engineering, and Algorithmic Trading**  
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 - LinkedIn: [linkedin.com/in/sujaygr](https://linkedin.com/in/sujaygr)  
 - Email: sgovin42@asu.edu  
 
